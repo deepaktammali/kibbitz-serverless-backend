@@ -1,0 +1,6 @@
+getAllPosts:
+  handler: services/feed/handler.getAllPosts
+  events:
+    - http:
+        method: get
+        path: /api/v1/feed

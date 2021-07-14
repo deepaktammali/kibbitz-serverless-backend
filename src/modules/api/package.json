@@ -1,0 +1,17 @@
+{
+  "name": "kibbitz-api",
+  "version": "1.0.0",
+  "description": "API for Kibbitz",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kibbitz Team",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "serverless-offline": "^7.0.0"
+  }
+}

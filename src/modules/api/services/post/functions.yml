@@ -1,0 +1,19 @@
+getPost:
+  handler:
+  events:
+    - http:
+
+getPost:
+  handler:
+  events:
+    - http:
+
+getPost:
+  handler:
+  events:
+    - http:
+
+getPost:
+  handler:
+  events:
+    - http:
